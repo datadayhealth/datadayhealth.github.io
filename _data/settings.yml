@@ -2,17 +2,18 @@ analytics-id:
 #Pages
 pages:
   - {name: 'Episodes', link: 'episodes.html'}
-  - {name: 'Patreon', link: '#'}
-  - {name: 'Shop', link: '#'}
-  - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
+  - {name: 'Hosts', link: 'hosts.html'}
+  # - {name: 'Patreon', link: '#'}
+  # - {name: 'Shop', link: '#'}
+  # - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
   - {name: 'Get This Theme', link: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
 
 social:
-  - {icon: 'instagram', type: "brand", link: '#'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
-  - {icon: 'facebook', type: "brand", link: '#'}
-  - {icon: 'youtube', type: "brand", link: '#'}  
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
+  - {icon: 'instagram', type: "brand", link: 'https://www.instagram.com/datadayhealth/'}
+  # - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
+  # - {icon: 'facebook', type: "brand", link: '#'}
+  - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/@DataDayHealth'}  
+  - {icon: 'envelope', type: "solid", link: 'mailto:datadayhealth@gmail.com'}
   - {icon: 'rss', type: "solid", link: "#"}
 
 websites-podcast:
