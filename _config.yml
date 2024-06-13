@@ -9,7 +9,7 @@ author:
   email: "f.j.townend@live.com"
 permalink: pretty
 permalink: /:title
-keywords: [podcast, jekyll]
+keywords: [podcast]
 
 #Plugins
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
@@ -26,9 +26,6 @@ sass:
   sourcemap: never
 
 #SEO
-twitter:
-  username: PandaSekh
-  card: summary
 facebook:
   app_id: 
 logo: /assets/img/Podcast_Cover.jpg
