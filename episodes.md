@@ -11,8 +11,5 @@ title: Episodes
     <li>
         <a href="{{ post.url }}"> {{ post.title }} </a>
     </li>
-
-
+    
 {% endfor %}
-
-</div> 
