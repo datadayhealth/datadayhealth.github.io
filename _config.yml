@@ -10,7 +10,7 @@ author:
 permalink: pretty
 permalink: /:title
 keywords: [podcast]
-theme: jekyll-podcaster
+# theme: jekyll-podcaster
 
 #Plugins
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
