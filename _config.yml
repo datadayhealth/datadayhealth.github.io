@@ -1,7 +1,7 @@
 # Site settings
 title: "Data Day Health"
-description: "Description of the website"
-podcast-description: "This is your podcast's summary."
+description: "Join Florence Townend (@florencetownend) and Davy Tennison, PhD students at University College London, as they explore the intersection of artificial intelligence, medtech, and data science in healthcare. Each episode analyses cutting-edge research papers and examines the ethical implications of AI in medicine."
+podcast-description: "PhD Students discussing healthcare and AI."
 url:  "https://datadayhealth.github.io/" # Actual base url of the website
 baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
