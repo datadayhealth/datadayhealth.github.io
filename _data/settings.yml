@@ -12,23 +12,20 @@ social:
   - {icon: 'instagram', type: "brand", link: 'https://www.instagram.com/datadayhealth/'}
   # - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
   # - {icon: 'facebook', type: "brand", link: '#'}
-  - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/@DataDayHealth'}  
+  - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/@Turing-Roche'}  
   - {icon: 'envelope', type: "solid", link: 'mailto:datadayhealth@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "#"}
+  - {icon: 'rss', type: "solid", link: 'https://anchor.fm/s/f6ac3a7c/podcast/rss'}
 
 websites-podcast:
   - {name: 'Apple Podcast', link: '#'}
-  - {name: 'Spotify', link: '#'}
-  - {name: 'YouTube', link: '#'}
+  - {name: 'Spotify', link: 'https://open.spotify.com/show/2YrjZTXoSAOHFsuQtjgR3z?si=9074b522ebd94963'}
+  - {name: 'YouTube', link: 'https://www.youtube.com/@Turing-Roche'}
   - {name: 'Android', link: '#'}
-  - {name: 'Spreaker', link: '#'}
-  - {name: 'Google Podcast', link: '#'}
-  - {name: 'Anchor', link: '#'}
-  - {name: 'Castbox', link: '#'}
+  - {name: 'Castbox', link: 'https://castbox.fm/channel/id6239199?country=gb'}
   - {name: 'Overcast', link: '#'}
   - {name: 'RadioPublic', link: '#'}
   - {name: 'Breaker', link: '#'}  
-  - {name: 'RSS', link: '#'}
+  - {name: 'RSS', link: 'https://anchor.fm/s/f6ac3a7c/podcast/rss'}
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: true

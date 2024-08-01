@@ -35,12 +35,12 @@ social:
   links:
     - https://github.com/datadayhealth
     - https://instagram.com/datadayhealth
-    - https://youtube.com/@DataDayHealth
+    - https://youtube.com/@Turing-Roche
 lang: en
 
 #Podcast Metadata. Used by the RSS Feed, which currently isn't in use. So you can avoid this
 podcast_title: Data Day Health
-podcast_author: Florence Townend
+podcast_author: Florence Townend and Davy Tennison
 podcast_email: 
 podcast_subtitle: 
 podcast_summary: 
