@@ -1,8 +1,7 @@
 ---
 title: Beyond Steps - The Real Power of Smart Watches
 layout: post
-description: Your smart watch analyses your every move. How safe is that data? And how can it benefit your health?
-Join Florence (@florencetownend) and Davy as they guide us through the world of wearable tech, exploring its implications for the future of medicine and the security of our data.
+description: Your smart watch analyses your every move. How safe is that data? And how can it benefit your health? Join Florence (@florencetownend) and Davy as they guide us through the world of wearable tech, exploring its implications for the future of medicine and the security of our data.
 file: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3 #Link to your .mp3 file
 length: "57:14" # mm:ss
 videoid:  #Copy here only the id of your YouTube video. Optional
